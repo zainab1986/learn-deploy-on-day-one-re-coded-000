@@ -132,6 +132,13 @@ a:visited {
   display: block;
   height: 400px;
 }
+#zaineb-card {
+  background-image: url("../assets/img/banner-photo-placeholder.png");
+}
+
+#zaineb-cover {
+  background-image: url("../assets/img/mathieu-balez-cover.jpeg");
+}
 
 #joe-burgess-card {
   background-image: url("../assets/img/joe-burgess.jpeg");
